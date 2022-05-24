@@ -7,7 +7,7 @@ const STATUSBAR_HEIGHT = Platform.OS == 'ios' ? 20 : StatusBar.crrentHeight;
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>aaaaaaaaaaaaaaaaaaOpen up App.js to start working on your app!</Text>
+      <Text>aaaaaaaaaaaaaaaaaaaaaaaaaaaaOpen up App.js to start working on your app!</Text>
       <StatusBar style="auto" />
     </View>
   );
